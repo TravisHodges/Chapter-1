@@ -17,6 +17,9 @@ public class QuartsToGallonsInteractive {
      numberOfGallons = numberOfQuartsNeeded / QTS_IN_GALLONS;
      numberOfQuartsRemaining = numberOfQuartsNeeded % QTS_IN_GALLONS;
      
+     System.out.println("A job that needs" + numberOfQuartsNeeded);
+     System.out.println("A job that needs");
+     System.out.println("");
 	}
 
 }
