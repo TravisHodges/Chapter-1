@@ -1,4 +1,4 @@
-package youDoIt;
+package excercises;
 import java.util.Scanner;
 public class percentages {
 

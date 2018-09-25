@@ -1,4 +1,4 @@
-package tutorial;
+package youDoIt;
 
 import java.util.Scanner;
 
