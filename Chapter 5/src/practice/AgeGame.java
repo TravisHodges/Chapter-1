@@ -34,7 +34,10 @@ public class AgeGame {
       {
        result = "You're old now!";
       }
-      else if(usersAge >= 41)
+      else if(usersAge >= 41 && usersAge <= 50)
+      {
+       result = "";  
+      }
       //0-12
       //13-18
       //19-25

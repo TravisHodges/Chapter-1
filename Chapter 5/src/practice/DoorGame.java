@@ -44,7 +44,7 @@ public class DoorGame {
     	  result = "a barely competent cashier and you're third in line.";
       }
       else if(doorChoice == 999) {
-    	  System.out.println("You enter a special room with 3 books on the table, there are no +"
+    	  System.out.println("You enter a special room with 3 books on the table, there are no "
     	  		+ "words on the cover. Do you choose Book 1, Book 2, or Book 3?");
     	  bookChoice = input.nextInt();
     	  if(bookChoice == 1)

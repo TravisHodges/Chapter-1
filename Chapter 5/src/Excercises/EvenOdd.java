@@ -18,9 +18,10 @@ public class EvenOdd {
      {
     	result = "even";
      }
-     else
+     else 
      {
     	result = "odd";	
+     }	
         displayMessage(result);
      }
      public static void displayMessage(String result) {
