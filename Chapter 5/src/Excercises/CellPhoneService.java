@@ -46,7 +46,8 @@ class CellPhoneService {
 		  }	
 		  displayMessage(result);
 	}
-}	
+
+}
 		public static void displayMessage(String result) {
 	 		System.out.println(result);
 	}
